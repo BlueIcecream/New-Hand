@@ -1,0 +1,81 @@
+span{
+		font-size:15px;/*字号大小*/
+		font-weight: thin;/*字体粗细*/
+		font-family: Arial;/*字体*/
+		color: black;/*颜色*/
+		background-color:white;/*背景颜色*/
+		text-align: right;/*对齐方式*/
+		padding: 5px;
+		text-decoration: underline/*下划线*/
+	}
+a{
+		color: black;
+	}
+span.left{
+		font-weight:bold;
+		margin-left:10px; 
+	}
+span.left1{
+		color: white;
+		margin-left:10px;
+		background-color:#388FFF;
+		text-decoration: none;/*下划线*/
+	}
+span.right{	
+		padding:0px 0px 0px 0px;
+		font-size:15px;
+		color: white;
+		background-color:#388FFF;
+		text-decoration: none;
+		margin-left:-20px;
+	}
+span.right1{
+		margin-left:20px;
+	}
+.right{
+		text-align: right;
+	}
+.size{
+		width:600px;
+		height: 35px;
+	}
+.father{	
+		padding-left:400px;
+	}
+.son{
+		padding: 13px 12px 13px;
+		font-size:15px;
+		float: left;
+	}
+.son1{
+		color:gray;
+		font-size:15px;
+		float: left;
+	}
+#wrapper{
+		min-width: 810px;
+    	height: 100%;
+   	    min-height: 600px;
+	}
+#middle{
+	    min-width: 810;
+	    height:350px;
+	}
+span.left2{
+	font-weight:thin;
+	margin-left:10px; 
+	}
+#center{
+	text-align: center;
+	}
+.center{
+	text-align: center;
+	}
+.but{
+	border:0;
+	background-color: #0066ff;
+	width:100px;
+	height:41px;
+	color: white;
+	font-size:large;
+	}
